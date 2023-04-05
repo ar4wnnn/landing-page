@@ -74,5 +74,16 @@ button{
     color: #F9FAF8;
     font-size: 18px;
 }
-
+.mright{
+    flex-shrink:0;
+    width:50%;
+}
+.image{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(112, 112, 112);
+    height:200px;
+    border-radius:8px;
+}
 
