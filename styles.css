@@ -174,3 +174,11 @@ button{
     max-height:60px;
     color:#F9FAF8;
 }
+footer{
+    display:flex;
+    padding: 3em;
+    background-color:#1F2937;
+    color:#E5E7EB;
+    align-items: center;
+    justify-content: center;
+}
